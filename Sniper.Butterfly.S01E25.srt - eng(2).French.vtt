@@ -1,0 +1,2840 @@
+WEBVTT
+Kind: captions
+Language: pt-PT
+
+00:00:00.320 --> 00:00:35.451
+Assistance et administration : regardez sur
+kissasia.cam ou kisskh.org
+
+00:00:38.860 --> 00:00:44.100
+♪La possibilité au sein de l'impossible♪
+
+00:00:45.910 --> 00:00:50.490
+♪Se cache encore dans un univers parallèle♪
+
+00:00:52.160 --> 00:00:57.530
+♪Je n'ai pas le don du bonheur♪
+
+00:00:59.050 --> 00:01:01.790
+♪Je ne peux que l'admettre♪
+
+00:01:06.220 --> 00:01:12.350
+♪Il doit bien exister une
+possibilité dans mon imagination♪
+
+00:01:12.960 --> 00:01:18.970
+♪Cela réduira
+en poussière toutes les impossibilités♪
+
+00:01:19.620 --> 00:01:26.660
+♪Même s'ils se moquent de mon illusion
+et de ma lenteur♪
+
+00:01:27.510 --> 00:01:29.150
+♪Ma folie♪
+
+00:01:35.320 --> 00:01:37.410
+=Papillon tireur d'élite=
+
+00:01:37.434 --> 00:01:41.190
+(Adapté du roman Jinjiang
+« Sniper Butterfly » de l'auteur Qibaosu)
+
+00:01:41.460 --> 00:01:44.180
+=Épisode 25=
+
+00:01:45.120 --> 00:01:48.177
+J'espère que chacun pourra participer activement à
+la protection internationale de l'environnement
+
+00:01:48.177 --> 00:01:50.510
+coopération et échanges,
+et introduction de technologies de pointe.
+
+00:01:50.510 --> 00:01:51.970
+Pourquoi ce n'est pas encore au tour de Li Wu ?
+
+00:01:52.950 --> 00:01:53.760
+Ça devrait être lui
+
+00:01:53.760 --> 00:01:54.810
+Après cette dame, je suppose.
+
+00:01:55.933 --> 00:01:57.600
+N'est-il pas juste là à attendre ?
+
+00:02:01.480 --> 00:02:02.150
+Merci
+
+00:02:02.150 --> 00:02:03.790
+À Mlle Chen de la société Wenshan.
+
+00:02:03.790 --> 00:02:05.950
+(Protection environnementale par l'IA de CloudMap)
+Accueillons maintenant le directeur technique de Tongchen Technology,
+
+00:02:05.950 --> 00:02:06.970
+M. Li Wu.
+
+00:02:16.080 --> 00:02:16.810
+Merci.
+
+00:02:21.150 --> 00:02:21.955
+Bonjour à tous.
+
+00:02:21.977 --> 00:02:23.970
+Je suis Li Wu de Tongchen Technology.
+
+00:02:30.360 --> 00:02:31.430
+Bienvenue sur
+
+00:02:31.430 --> 00:02:32.630
+ce thème de l'IA
+
+00:02:32.630 --> 00:02:33.970
+conférence.
+
+00:02:34.150 --> 00:02:34.800
+Aujourd'hui,
+
+00:02:34.800 --> 00:02:36.030
+Nous avons de la chance
+
+00:02:36.030 --> 00:02:37.360
+écouter des conférences passionnantes
+
+00:02:37.360 --> 00:02:38.570
+des meilleurs experts,
+
+00:02:38.840 --> 00:02:39.590
+entrepreneurs,
+
+00:02:39.590 --> 00:02:41.750
+et des érudits du monde entier.
+
+00:02:41.750 --> 00:02:42.710
+Nous pouvons apprendre sur
+
+00:02:42.710 --> 00:02:43.800
+innovation technologique
+
+00:02:43.800 --> 00:02:44.840
+en IA,
+
+00:02:44.840 --> 00:02:45.800
+progrès de la recherche,
+
+00:02:45.800 --> 00:02:47.470
+et les applications commerciales.
+
+00:02:47.470 --> 00:02:48.120
+J'ai personnellement
+
+00:02:48.120 --> 00:02:49.570
+J'y ai aussi beaucoup gagné.
+
+00:02:51.590 --> 00:02:53.100
+Cette conférence a une organisation particulière.
+
+00:02:54.310 --> 00:02:55.520
+Tongchen peut enfin se montrer
+
+00:02:55.520 --> 00:02:57.180
+lors d'un événement de cette ampleur.
+
+00:02:57.710 --> 00:02:58.730
+Plutôt impressionnant.
+
+00:02:59.840 --> 00:03:00.620
+Ouais.
+
+00:03:03.080 --> 00:03:04.470
+Ces grands noms
+
+00:03:04.470 --> 00:03:06.130
+Ce que l'on ne voit que dans les revues est également présent ici.
+
+00:03:06.590 --> 00:03:08.250
+Le superviseur de Li Wu
+à l'université de Pennsylvanie est également présent.
+
+00:03:08.560 --> 00:03:09.940
+S'il peut nous le présenter,
+
+00:03:10.470 --> 00:03:12.250
+Peut-être pourrons-nous collaborer un jour.
+
+00:03:15.870 --> 00:03:16.410
+Bien.
+
+00:03:16.750 --> 00:03:17.470
+Voilà l'exemple
+
+00:03:17.470 --> 00:03:19.780
+de surveillance en temps réel.
+
+00:03:20.120 --> 00:03:22.800
+Comme je l'ai mentionné précédemment,
+
+00:03:22.800 --> 00:03:25.680
+concernant une série de données
+sur la détection des impuretés de l'air
+
+00:03:25.688 --> 00:03:28.010
+et
+la surveillance de la concentration en dioxyde de carbone.
+
+00:03:39.190 --> 00:03:39.810
+S'il te plaît.
+
+00:03:41.150 --> 00:03:41.780
+Professeur Liu.
+
+00:03:43.150 --> 00:03:43.970
+Li Wu.
+
+00:03:45.280 --> 00:03:46.630
+Vous avez fait un excellent travail.
+
+00:03:46.630 --> 00:03:47.840
+tout à l' heure.
+
+00:03:47.840 --> 00:03:48.500
+Pas du tout.
+
+00:03:49.150 --> 00:03:49.780
+Professeur Liu,
+
+00:03:50.120 --> 00:03:51.430
+Avez-vous du temps ce soir ?
+
+00:03:51.430 --> 00:03:53.010
+On pourrait peut-être dîner ensemble.
+
+00:03:53.240 --> 00:03:54.180
+Dîner?
+
+00:03:54.750 --> 00:03:56.840
+J'ai bien peur que non.
+
+00:03:56.840 --> 00:03:57.970
+J'ai une réunion ce soir.
+
+00:04:01.533 --> 00:04:02.822
+Comment se porte le problème technique ?
+
+00:04:02.870 --> 00:04:04.680
+Nous en avons parlé la dernière fois ?
+
+00:04:04.680 --> 00:04:05.530
+Le problème est-il résolu ?
+
+00:04:06.280 --> 00:04:07.850
+Je n'ai pas eu l'occasion de vous le dire.
+
+00:04:08.150 --> 00:04:09.360
+Les tests initiaux
+
+00:04:09.360 --> 00:04:10.080
+de notre nouveau système
+
+00:04:10.080 --> 00:04:11.190
+a été un succès.
+
+00:04:11.190 --> 00:04:12.240
+Nous sommes en train de simuler
+
+00:04:12.240 --> 00:04:13.180
+différents environnements.
+
+00:04:13.400 --> 00:04:14.240
+En plus,
+
+00:04:14.240 --> 00:04:15.755
+Nous sommes sur le point de finaliser notre levée de fonds de série B.
+
+00:04:18.000 --> 00:04:20.050
+Progresser techniquement est une bonne chose,
+
+00:04:20.510 --> 00:04:22.260
+mais maintenant vous dirigez une entreprise.
+
+00:04:23.040 --> 00:04:24.660
+Ne soyez pas trop pressé d'obtenir un succès rapide.
+
+00:04:25.270 --> 00:04:26.680
+Ambition et confiance
+
+00:04:26.680 --> 00:04:27.700
+sont bons,
+
+00:04:28.360 --> 00:04:30.220
+mais il faut avancer étape par étape.
+
+00:04:32.720 --> 00:04:33.800
+Je comprends, professeur Liu.
+
+00:04:33.800 --> 00:04:35.820
+Mais le problème actuel est
+
+00:04:36.600 --> 00:04:38.155
+qu'il y a trop d'entreprises
+
+00:04:38.177 --> 00:04:39.970
+faire la même chose que nous.
+
+00:04:40.360 --> 00:04:42.120
+Comme Kejun
+
+00:04:42.120 --> 00:04:42.820
+et Leiyin.
+
+00:04:43.360 --> 00:04:44.100
+Je pense
+
+00:04:44.430 --> 00:04:45.390
+si nous ne répondons pas
+
+00:04:45.390 --> 00:04:46.240
+le rythme,
+
+00:04:46.240 --> 00:04:47.490
+Nous serons éliminés très bientôt.
+
+00:04:49.560 --> 00:04:50.900
+Parfois,
+
+00:04:51.430 --> 00:04:52.580
+Lent, c'est rapide.
+
+00:04:53.360 --> 00:04:54.610
+Je connais ta personnalité.
+
+00:04:55.270 --> 00:04:57.050
+Tu as toujours été motivé(e).
+
+00:04:57.390 --> 00:04:58.580
+Il n'y a rien de mal à cela.
+
+00:04:59.800 --> 00:05:01.170
+Mais en cas de besoin,
+
+00:05:01.266 --> 00:05:02.700
+Il faut rester humble et patient.
+
+00:05:06.240 --> 00:05:06.970
+Bien.
+
+00:05:06.977 --> 00:05:08.040
+J'ai un forum de table ronde
+
+00:05:08.040 --> 00:05:09.580
+après-demain.
+
+00:05:09.750 --> 00:05:10.580
+Passez
+
+00:05:10.750 --> 00:05:11.780
+et apprendre quelque chose.
+
+00:05:14.750 --> 00:05:15.460
+Bien sûr.
+
+00:05:16.270 --> 00:05:17.109
+À bientôt.
+
+00:05:17.110 --> 00:05:17.977
+Bien.
+
+00:05:18.870 --> 00:05:19.610
+Par ici, s'il vous plaît.
+
+00:05:33.830 --> 00:05:35.140
+(Les plans ont changé.)
+
+00:05:35.200 --> 00:05:36.644
+(Je dois rester un jour de plus.)
+
+00:05:38.750 --> 00:05:39.460
+Monsieur Lee,
+
+00:05:39.533 --> 00:05:41.066
+Ça vous dérangerait si on apprenait à se connaître ?
+
+00:06:10.800 --> 00:06:11.530
+Monsieur Lee,
+
+00:06:11.920 --> 00:06:13.290
+Regardez où nous sommes.
+
+00:06:22.871 --> 00:06:23.891
+Quand êtes-vous arrivé ici ?
+
+00:06:24.870 --> 00:06:26.780
+Lorsque vous prononciez votre discours
+sur scène.
+
+00:06:28.160 --> 00:06:29.360
+Je ne m'y attendais pas
+
+00:06:29.360 --> 00:06:31.490
+Tu dois avoir cette allure sur scène.
+
+00:06:31.800 --> 00:06:32.610
+À quoi ressemblais-je ?
+
+00:06:33.950 --> 00:06:35.370
+Tu étais plutôt beau.
+
+00:06:47.977 --> 00:06:48.580
+Hé.
+
+00:07:07.600 --> 00:07:08.720
+Je ne m'y attendais pas
+
+00:07:08.720 --> 00:07:09.630
+Vous croiser ici.
+
+00:07:09.630 --> 00:07:10.580
+Loupe!
+
+00:07:12.750 --> 00:07:13.700
+Très bien.
+
+00:07:14.000 --> 00:07:15.100
+D'accord. À plus tard.
+
+00:07:30.311 --> 00:07:32.000
+Qui t'a dit de m'appeler par mon surnom ?
+
+00:07:32.000 --> 00:07:33.170
+dans un endroit comme celui-ci ?
+
+00:07:34.270 --> 00:07:35.580
+Quand es-tu revenu ?
+
+00:07:35.920 --> 00:07:37.140
+Pourquoi êtes-vous ici ?
+
+00:07:37.510 --> 00:07:38.870
+Je suis arrivé ce matin.
+
+00:07:38.911 --> 00:07:40.266
+J'ai été renvoyé pour un entretien.
+
+00:07:40.266 --> 00:07:41.155
+Tu ne me l'as pas dit.
+
+00:07:41.310 --> 00:07:42.460
+J'aurais pu venir te chercher.
+
+00:07:43.750 --> 00:07:45.530
+Je suis ton mari légitime, tu sais.
+
+00:07:47.750 --> 00:07:50.260
+Si je vous le disais à l'avance,
+
+00:07:50.888 --> 00:07:52.044
+comment pourrais-je voir
+
+00:07:52.066 --> 00:07:53.355
+cette expression incroyable que tu as ?
+
+00:07:54.750 --> 00:07:55.580
+Donc...
+
+00:07:56.630 --> 00:07:58.260
+Tu es revenu pour me surprendre.
+
+00:07:59.000 --> 00:08:00.630
+En fait, cette fois-ci,
+
+00:08:00.630 --> 00:08:02.240
+l'entreprise veut que je prenne en charge
+
+00:08:02.240 --> 00:08:04.580
+le nouveau projet de revue dans la ville de Yi.
+
+00:08:05.870 --> 00:08:06.870
+Vraiment?
+
+00:08:06.870 --> 00:08:07.970
+Baissez la voix.
+
+00:08:08.950 --> 00:08:10.630
+Je n'ai pas encore reçu l'e-mail officiel.
+
+00:08:10.630 --> 00:08:12.355
+Si vous ne voulez pas que je revienne...
+
+00:08:13.480 --> 00:08:14.660
+C'est super!
+
+00:08:16.355 --> 00:08:18.370
+Nous n'aurons enfin
+plus à vivre de relations à distance.
+
+00:08:44.733 --> 00:08:45.822
+Vous voulez essayer ça ?
+
+00:08:47.120 --> 00:08:47.730
+Oublie ça.
+
+00:08:55.200 --> 00:08:58.340
+En entendant ce que vous avez dit sur scène aujourd'hui,
+
+00:08:59.550 --> 00:09:00.610
+J'ai été vraiment ému.
+
+00:09:01.790 --> 00:09:02.580
+Quelle partie ?
+
+00:09:03.480 --> 00:09:04.610
+À propos de l'avenir.
+
+00:09:05.390 --> 00:09:07.240
+Si votre système CloudMap
+
+00:09:07.240 --> 00:09:08.890
+mises à jour réussies,
+
+00:09:09.390 --> 00:09:10.490
+Ce sera très significatif.
+
+00:09:15.030 --> 00:09:16.960
+Votre système s'appelle CloudMap
+
+00:09:16.960 --> 00:09:18.460
+À cause du village de Yunfeng, n'est-ce pas ?
+
+00:09:18.870 --> 00:09:22.100
+CloudMap véhicule la signification
+du panorama du village de Yunfeng.
+
+00:09:23.120 --> 00:09:24.100
+Je le savais.
+
+00:09:24.750 --> 00:09:26.700
+Le village de Yunfeng est vraiment magnifique.
+
+00:09:28.630 --> 00:09:29.300
+C'est.
+
+00:09:31.200 --> 00:09:32.240
+Quand j'étais enfant,
+
+00:09:32.240 --> 00:09:33.510
+la vie là-bas
+
+00:09:33.510 --> 00:09:34.320
+Ce n'était pas facile,
+
+00:09:34.320 --> 00:09:35.850
+et j'ai traversé beaucoup d'épreuves,
+
+00:09:36.480 --> 00:09:37.370
+mais...
+
+00:09:38.320 --> 00:09:39.240
+Quand j'y repense maintenant,
+
+00:09:39.240 --> 00:09:40.644
+Ce sont surtout de bons souvenirs.
+
+00:09:42.270 --> 00:09:44.060
+En fait, quand je pense
+au village de Yunfeng,
+
+00:09:44.240 --> 00:09:45.730
+Je peux encore l'image
+
+00:09:46.155 --> 00:09:48.266
+le chant des insectes,
+les ombres des arbres,
+
+00:09:48.600 --> 00:09:50.010
+les couchers et levers de soleil que j'ai vus...
+
+00:09:54.150 --> 00:09:55.180
+Et toi.
+
+00:09:57.510 --> 00:09:58.150
+Ces souvenirs
+
+00:09:58.150 --> 00:09:59.360
+sont restés avec moi,
+
+00:09:59.360 --> 00:10:02.100
+et ils m'ont guéri
+
+00:10:02.133 --> 00:10:03.911
+lorsque je traversais
+la période la plus difficile.
+
+00:10:04.670 --> 00:10:06.010
+J'espère donc vraiment
+
+00:10:06.360 --> 00:10:07.030
+plus d'endroits
+
+00:10:07.030 --> 00:10:08.270
+peut être comme le village de Yunfeng
+
+00:10:08.270 --> 00:10:09.300
+dans mon cœur.
+
+00:10:09.870 --> 00:10:10.610
+Faire le ménage,
+
+00:10:11.120 --> 00:10:11.890
+beau,
+
+00:10:12.670 --> 00:10:13.850
+et la guérison.
+
+00:10:15.870 --> 00:10:17.000
+C'est pourquoi vous avez choisi
+
+00:10:17.000 --> 00:10:19.100
+Protection de l'environnement par l'IA, n'est-ce pas ?
+
+00:10:22.670 --> 00:10:24.010
+Je pense
+
+00:10:24.840 --> 00:10:26.100
+Vous en avez déjà réalisé une partie.
+
+00:10:28.600 --> 00:10:29.490
+Je vais continuer à travailler dur.
+
+00:10:32.360 --> 00:10:34.000
+D'accord, quelle application
+
+00:10:34.000 --> 00:10:35.120
+L'avez-vous installé sur mon téléphone ?
+
+00:10:35.120 --> 00:10:36.120
+Je ne le trouve nulle part.
+
+00:10:36.120 --> 00:10:37.120
+Bien sûr que non.
+
+00:10:37.120 --> 00:10:38.060
+Je l'ai fabriqué moi-même.
+
+00:10:38.440 --> 00:10:40.010
+Vous avez réussi ?
+
+00:10:40.550 --> 00:10:41.460
+À quoi ça sert ?
+
+00:10:42.720 --> 00:10:43.890
+Bien...
+
+00:10:44.150 --> 00:10:45.340
+De bonnes choses, évidemment.
+
+00:10:46.150 --> 00:10:47.370
+Bonne chose ?
+
+00:10:48.600 --> 00:10:49.580
+Apprenez-moi à l'utiliser.
+
+00:10:51.360 --> 00:10:52.360
+Il n'en a pas besoin
+
+00:10:52.360 --> 00:10:53.300
+quelque chose de spécial.
+
+00:10:53.510 --> 00:10:54.390
+Je viens de configurer
+
+00:10:54.390 --> 00:10:55.970
+une série de commandes.
+
+00:10:56.200 --> 00:10:57.580
+Il vous enverra ces messages.
+
+00:10:57.870 --> 00:10:58.790
+Et mon application
+
+00:10:58.790 --> 00:11:00.540
+Vous recevrez également des notifications.
+
+00:11:02.750 --> 00:11:03.730
+M. Li Wu,
+
+00:11:03.910 --> 00:11:05.440
+tu as installé une application sur mon téléphone
+
+00:11:05.440 --> 00:11:06.580
+sans ma permission.
+
+00:11:06.750 --> 00:11:08.000
+Essayez-vous de voler
+
+00:11:08.000 --> 00:11:08.850
+Mes informations ?
+
+00:11:09.120 --> 00:11:10.870
+Je n'oserais pas.
+
+00:11:10.870 --> 00:11:12.080
+Je pensais simplement que ce serait plus facile.
+
+00:11:12.080 --> 00:11:13.340
+vérifier les choses.
+
+00:11:14.790 --> 00:11:16.220
+Vous saisissez ce dont vous avez besoin,
+
+00:11:16.550 --> 00:11:17.610
+cela m'alerte,
+
+00:11:17.790 --> 00:11:19.340
+et je peux vous aider à y parvenir.
+
+00:11:19.480 --> 00:11:20.300
+C'est tout.
+
+00:11:22.888 --> 00:11:23.890
+Je te fais confiance pour le moment.
+
+00:11:26.670 --> 00:11:28.080
+Mais n'est-ce pas ?
+
+00:11:28.080 --> 00:11:29.820
+Vous vous créez des problèmes ?
+
+00:11:29.955 --> 00:11:31.488
+Et si vous ne pouvez pas aller jusqu'au bout ?
+
+00:11:31.750 --> 00:11:32.420
+Je vais.
+
+00:11:33.080 --> 00:11:33.820
+Vous avez dit
+
+00:11:34.080 --> 00:11:36.370
+Vous n'avez pas besoin de surprises intentionnelles.
+
+00:11:38.030 --> 00:11:38.820
+Je respecte cela.
+
+00:11:39.600 --> 00:11:41.610
+C'est quelque chose que je peux faire,
+
+00:11:41.840 --> 00:11:42.890
+et je veux le faire.
+
+00:11:43.720 --> 00:11:45.080
+J'ai donc transformé ces surprises
+
+00:11:45.080 --> 00:11:46.650
+en petits coups de pouce
+
+00:11:47.790 --> 00:11:48.970
+qui peut
+
+00:11:49.150 --> 00:11:50.220
+vous faciliter la vie.
+
+00:11:51.390 --> 00:11:52.340
+Êtes-vous heureux?
+
+00:11:53.320 --> 00:11:53.940
+Je suis.
+
+00:11:55.670 --> 00:11:56.910
+Cette application peut-elle
+
+00:11:56.910 --> 00:11:57.970
+continuer à fonctionner indéfiniment ?
+
+00:11:58.870 --> 00:11:59.550
+Oui.
+
+00:11:59.550 --> 00:12:00.150
+Je l'ai configuré pour qu'il s'exécute
+
+00:12:00.150 --> 00:12:01.490
+pendant cent ans.
+
+00:12:02.750 --> 00:12:04.030
+Cent ans ?
+
+00:12:04.030 --> 00:12:05.240
+Nous ne vivrons pas aussi longtemps.
+
+00:12:05.240 --> 00:12:06.370
+Ça va.
+
+00:12:09.000 --> 00:12:10.100
+De toute façon,
+
+00:12:10.670 --> 00:12:11.440
+ce programme
+
+00:12:11.440 --> 00:12:12.960
+est fait spécialement pour vous.
+
+00:12:12.960 --> 00:12:13.940
+Cela ne sert que vous.
+
+00:12:16.360 --> 00:12:17.130
+Pareil pour moi.
+
+00:12:24.155 --> 00:12:26.250
+Puisque vous pensez déjà à
+une centaine d'années,
+
+00:12:26.720 --> 00:12:28.111
+Avez-vous pensé à
+
+00:12:28.133 --> 00:12:29.644
+À quoi ressemblera votre avenir ?
+
+00:12:30.750 --> 00:12:31.370
+J'ai.
+
+00:12:32.550 --> 00:12:33.580
+Par exemple,
+
+00:12:34.510 --> 00:12:35.720
+quand j'aurai trente ans,
+
+00:12:35.720 --> 00:12:37.130
+Je souhaite que ma carrière soit plus stable.
+
+00:12:37.750 --> 00:12:38.480
+Quand tout
+
+00:12:38.480 --> 00:12:39.970
+est plus stable,
+
+00:12:40.910 --> 00:12:42.650
+Je pourrai vous donner ce que vous voulez,
+
+00:12:43.790 --> 00:12:45.370
+Et alors je mériterai d'être avec toi.
+
+00:12:48.510 --> 00:12:50.300
+Pourquoi cela ressemble-t-il à
+
+00:12:50.480 --> 00:12:51.730
+Vous présentez votre projet à un investisseur ?
+
+00:12:53.480 --> 00:12:54.890
+Je suis sérieux.
+
+00:12:56.120 --> 00:12:57.250
+Je tiendrai parole.
+
+00:13:00.630 --> 00:13:02.300
+Rien n'est certain.
+
+00:13:03.390 --> 00:13:04.750
+La seule constante dans la vie
+
+00:13:04.750 --> 00:13:05.770
+c'est le changement.
+
+00:13:06.080 --> 00:13:07.730
+Il est normal que tu changes.
+
+00:13:08.200 --> 00:13:09.440
+Vous n'en avez pas besoin
+
+00:13:09.440 --> 00:13:10.510
+définir
+
+00:13:10.510 --> 00:13:11.730
+un objectif précis pour vous-même.
+
+00:13:11.755 --> 00:13:12.870
+Les autres n'y sont pas obligés.
+
+00:13:12.870 --> 00:13:13.610
+Je fais.
+
+00:13:14.840 --> 00:13:15.820
+Pourquoi?
+
+00:13:23.320 --> 00:13:24.770
+Je veux juste que tu le saches
+
+00:13:25.440 --> 00:13:26.730
+Tu es déjà formidable.
+
+00:13:27.000 --> 00:13:28.155
+Vous n'êtes pas obligé de mettre
+
+00:13:28.177 --> 00:13:29.400
+Tu te mets tellement de pression.
+
+00:13:31.960 --> 00:13:32.700
+J'ai compris?
+
+00:13:41.240 --> 00:13:42.490
+Parlons-en plus tard.
+
+00:13:43.630 --> 00:13:44.200
+Tout de suite,
+
+00:13:44.200 --> 00:13:45.955
+Nous avons quelque chose de plus important à faire.
+
+00:13:46.360 --> 00:13:47.130
+Qu'est-ce que c'est?
+
+00:13:49.630 --> 00:13:50.250
+Achats.
+
+00:13:50.670 --> 00:13:51.340
+Un rendez-vous.
+
+00:14:19.140 --> 00:14:20.777
+(Liu Ziqi, Zhang Minting)
+
+00:14:22.420 --> 00:14:25.020
+(Nous allons nous marier !
+Vous êtes cordialement invités.)
+
+00:14:26.580 --> 00:14:28.540
+(Mariée : Zhang Minting)
+
+00:14:30.630 --> 00:14:31.460
+Qu'est ce que c'est?
+
+00:14:32.200 --> 00:14:33.370
+Une invitation de mariage.
+
+00:14:33.750 --> 00:14:35.730
+Un client avec qui j'ai déjà travaillé
+m'a envoyé ceci.
+
+00:14:36.200 --> 00:14:36.940
+Y allez-vous?
+
+00:14:38.030 --> 00:14:40.220
+J'ai entendu dire que Wu Fu travaille aussi avec elle.
+
+00:14:41.080 --> 00:14:42.250
+Il sera probablement là.
+
+00:14:43.440 --> 00:14:44.700
+Donc je n'y vais pas.
+
+00:14:45.240 --> 00:14:46.460
+Il le fera probablement
+
+00:14:46.600 --> 00:14:47.550
+habillez-vous davantage
+
+00:14:47.550 --> 00:14:48.820
+que le marié.
+
+00:14:49.670 --> 00:14:50.870
+Il pourrait même apparaître
+
+00:14:50.870 --> 00:14:52.220
+avec une date.
+
+00:14:53.510 --> 00:14:54.250
+Je vais passer.
+
+00:14:55.670 --> 00:14:56.490
+Pourquoi pas?
+
+00:14:57.066 --> 00:14:58.250
+Tu n'as pas de petit ami ?
+
+00:14:59.480 --> 00:15:00.300
+Je peux t'accompagner.
+
+00:15:01.150 --> 00:15:02.960
+Bien sûr, j'ai un petit ami.
+
+00:15:02.960 --> 00:15:04.060
+Je pense simplement
+
+00:15:04.390 --> 00:15:05.270
+nous n'avons pas besoin de
+
+00:15:05.270 --> 00:15:06.060
+Perdre son temps avec ça.
+
+00:15:06.422 --> 00:15:07.844
+Je vais l'appeler, lui transmettre mes vœux,
+
+00:15:07.844 --> 00:15:09.555
+Et offrez un cadeau.
+Cela devrait suffire.
+
+00:15:15.266 --> 00:15:16.370
+Je vais aux toilettes.
+
+00:15:32.670 --> 00:15:33.340
+Bonjour?
+
+00:15:33.840 --> 00:15:35.010
+Bonjour, Cen Jin.
+
+00:15:35.630 --> 00:15:37.550
+Tu dois venir à mon mariage.
+
+00:15:37.550 --> 00:15:40.340
+Nous avons si bien travaillé ensemble.
+
+00:15:40.710 --> 00:15:41.870
+Nous avons conclu tellement d'affaires,
+
+00:15:41.870 --> 00:15:42.960
+Et j'ai continué à obtenir des promotions.
+
+00:15:42.960 --> 00:15:43.390
+Vraiment,
+
+00:15:43.390 --> 00:15:44.850
+Tu es mon étoile porte-bonheur.
+
+00:15:45.670 --> 00:15:47.360
+Tu as raté mon premier mariage,
+
+00:15:47.360 --> 00:15:48.888
+Mais tu dois venir à mon second mariage.
+
+00:15:49.510 --> 00:15:51.120
+Bien sûr, j'ai envie d'y aller,
+
+00:15:51.120 --> 00:15:52.150
+mais je ne peux pas le confirmer
+
+00:15:52.150 --> 00:15:53.130
+La date n'est pas encore fixée.
+
+00:15:53.960 --> 00:15:55.420
+Oh, s'il vous plaît, ne me faites pas ça.
+
+00:15:55.630 --> 00:15:57.030
+Venez simplement.
+
+00:15:57.030 --> 00:15:57.720
+Je te mettrai
+
+00:15:57.720 --> 00:15:59.030
+à une table avec des connexions.
+
+00:15:59.030 --> 00:16:00.320
+Toutes les ressources seront disponibles.
+
+00:16:00.320 --> 00:16:00.910
+vous pourriez avoir besoin.
+
+00:16:00.910 --> 00:16:02.150
+Je vais les arranger ensemble
+
+00:16:02.150 --> 00:16:02.970
+pour toi.
+
+00:16:03.044 --> 00:16:04.644
+Qu'en pensez-vous ? N'est-ce pas merveilleux ?
+
+00:16:04.666 --> 00:16:05.866
+Suis-je un bon partenaire de travail ?
+
+00:16:05.870 --> 00:16:07.730
+Ne me refusez pas.
+
+00:16:08.360 --> 00:16:09.120
+Bien.
+
+00:16:09.120 --> 00:16:10.970
+Puisque tu insistes tant,
+je serai là.
+
+00:16:11.111 --> 00:16:12.777
+Mais ne prenez aucune disposition particulière.
+
+00:16:12.822 --> 00:16:13.960
+Si vous le faites, je n'irai pas.
+
+00:16:13.960 --> 00:16:15.000
+D'accord.
+
+00:16:15.000 --> 00:16:15.911
+C'est donc réglé.
+
+00:16:15.955 --> 00:16:18.120
+Bref, c'est vous qui décidez.
+
+00:16:18.120 --> 00:16:18.750
+Bien,
+
+00:16:18.750 --> 00:16:19.550
+À bientôt.
+
+00:16:19.550 --> 00:16:20.130
+Au revoir.
+
+00:16:37.200 --> 00:16:37.940
+Maman.
+
+00:16:39.266 --> 00:16:40.800
+Combien de fois te l'ai-je dit ?
+
+00:16:40.844 --> 00:16:42.044
+Vous n'êtes pas obligé de faire tout cela.
+
+00:16:42.044 --> 00:16:43.300
+Vos mains vont se fissurer.
+
+00:16:43.488 --> 00:16:45.466
+- Où est la crème pour les mains que je t'ai achetée ?
+- Ça va.
+
+00:16:45.960 --> 00:16:46.650
+Chang.
+
+00:16:48.870 --> 00:16:49.730
+Bien...
+
+00:16:50.440 --> 00:16:51.340
+JE...
+
+00:16:52.320 --> 00:16:53.060
+Qu'est-ce que c'est?
+
+00:16:53.360 --> 00:16:55.220
+J'ai acheté un billet de train
+pour demain matin.
+
+00:16:55.550 --> 00:16:57.270
+Yuan a eu quelques difficultés à l'école.
+
+00:16:57.270 --> 00:16:57.770
+JE...
+
+00:17:02.790 --> 00:17:03.460
+Chang,
+
+00:17:03.840 --> 00:17:05.110
+M. Zhang est en voyage d'affaires.
+
+00:17:05.110 --> 00:17:05.720
+Il n'est pas à la maison.
+
+00:17:05.720 --> 00:17:06.610
+Il n'y a personne à la maison.
+
+00:17:11.550 --> 00:17:12.410
+Chang.
+
+00:17:27.310 --> 00:17:28.000
+Je m'en vais.
+
+00:17:28.000 --> 00:17:28.790
+Je serai de retour tard.
+
+00:17:28.790 --> 00:17:29.550
+Vous pouvez partir
+
+00:17:29.550 --> 00:17:30.400
+Quand vous voulez.
+
+00:17:30.400 --> 00:17:31.130
+Attends, Chang.
+
+00:17:31.480 --> 00:17:32.060
+Attendez.
+
+00:17:32.790 --> 00:17:33.690
+Écoutez-moi jusqu'au bout.
+
+00:17:34.270 --> 00:17:36.020
+Cette fois, c'est différent.
+
+00:17:36.590 --> 00:17:38.650
+Yuan s'est battu à l'école.
+
+00:17:38.880 --> 00:17:40.410
+Il a blessé quelqu'un.
+
+00:17:40.640 --> 00:17:41.540
+Je ne peux pas laisser M. Zhang
+
+00:17:41.920 --> 00:17:43.780
+découvrir.
+
+00:17:45.350 --> 00:17:46.690
+Vous n'avez pas besoin de l'expliquer.
+
+00:17:47.720 --> 00:17:49.450
+Prendre soin de votre fils est votre devoir.
+
+00:17:50.400 --> 00:17:51.610
+Je ne comprends tout simplement pas.
+
+00:17:52.240 --> 00:17:53.650
+Pourquoi chaque année,
+
+00:17:54.440 --> 00:17:56.100
+à l'anniversaire de la mort de mon père,
+
+00:17:56.310 --> 00:17:57.890
+Tu as toujours quelque chose qui se passe ?
+
+00:18:01.350 --> 00:18:02.340
+Toutes ces années,
+
+00:18:03.110 --> 00:18:04.890
+Combien de fois
+es-tu allé sur sa tombe ?
+
+00:18:06.110 --> 00:18:07.890
+Vous a-t-il mal traité
+de son vivant ?
+
+00:18:13.680 --> 00:18:14.650
+Je sais.
+
+00:18:16.830 --> 00:18:18.500
+Je sais que tu m'en veux.
+
+00:18:21.030 --> 00:18:21.650
+Oui,
+
+00:18:22.270 --> 00:18:23.610
+M. Zhang et moi
+
+00:18:23.790 --> 00:18:24.820
+sont un obstacle
+
+00:18:25.200 --> 00:18:26.740
+Vous ne pouvez pas surmonter cet obstacle émotionnel.
+
+00:18:27.400 --> 00:18:28.060
+Mais...
+
+00:18:28.590 --> 00:18:29.310
+Si cela n'avait pas été
+
+00:18:29.310 --> 00:18:30.690
+pour lui,
+
+00:18:31.200 --> 00:18:32.740
+Cette famille se serait désintégrée.
+
+00:18:33.680 --> 00:18:34.650
+J'étais seul,
+
+00:18:34.790 --> 00:18:36.300
+sans emploi.
+
+00:18:36.311 --> 00:18:38.155
+Comment étais-je censé
+payer vos frais de scolarité ?
+
+00:18:38.270 --> 00:18:39.750
+ou vous surenchérir ?
+
+00:18:39.750 --> 00:18:41.890
+Arrête de me culpabiliser.
+
+00:18:43.440 --> 00:18:44.500
+Toutes ces années,
+
+00:18:45.510 --> 00:18:46.640
+Combien avez-vous réellement
+
+00:18:46.640 --> 00:18:48.100
+ont fait partie de ma vie ?
+
+00:18:48.440 --> 00:18:49.640
+Vraiment ?
+
+00:18:49.640 --> 00:18:51.020
+Vous vous souciez de moi ?
+
+00:18:51.310 --> 00:18:52.400
+Ai-je une place
+
+00:18:52.400 --> 00:18:54.020
+dans votre soi-disant maison ?
+
+00:18:57.960 --> 00:18:59.260
+Encore de la soupe de porc aux racines de lotus.
+
+00:18:59.920 --> 00:19:01.270
+Votre nouveau-né aime ça.
+
+00:19:01.270 --> 00:19:02.820
+Mais cela ne veut pas dire que je le fais.
+
+00:19:03.400 --> 00:19:04.850
+Sais-tu que je déteste la racine de lotus ?
+
+00:19:05.790 --> 00:19:06.980
+Vous ne savez pas.
+
+00:19:07.270 --> 00:19:08.650
+Et vous, ça vous est égal.
+
+00:19:09.640 --> 00:19:11.510
+Peu importe le nombre de fois où je l'ai dit,
+
+00:19:11.510 --> 00:19:13.030
+Mon bol est toujours rempli
+
+00:19:13.030 --> 00:19:14.450
+avec ce que je déteste le plus.
+
+00:19:15.240 --> 00:19:15.930
+Toi...
+
+00:19:46.310 --> 00:19:47.020
+Excusez-moi.
+
+00:19:47.777 --> 00:19:49.550
+Encore un dapanji, s'il vous plaît.
+[*Ragoût de poulet épicé]
+
+00:19:49.555 --> 00:19:50.210
+Bien sûr.
+
+00:19:54.510 --> 00:19:55.110
+Monsieur Shen,
+
+00:19:55.110 --> 00:19:55.890
+Veuillez vous asseoir.
+
+00:19:55.911 --> 00:19:57.109
+Vos plats seront servis très prochainement.
+
+00:19:57.110 --> 00:19:57.610
+Merci.
+
+00:20:27.720 --> 00:20:28.450
+Buvez de l'eau.
+
+00:20:28.880 --> 00:20:29.740
+Ne vous étouffez pas.
+
+00:21:18.070 --> 00:21:18.780
+Qu'est-ce qui ne va pas?
+
+00:21:40.200 --> 00:21:40.930
+Tu es réveillé.
+
+00:21:41.790 --> 00:21:42.690
+Crampes d'estomac.
+
+00:21:42.960 --> 00:21:44.000
+Soit tu bois, soit tu manges
+
+00:21:44.000 --> 00:21:45.060
+comme un fou.
+
+00:21:46.070 --> 00:21:47.780
+Se faire du mal, c'est se faire du mal soi-même
+
+00:21:48.160 --> 00:21:49.590
+la seule façon
+
+00:21:49.590 --> 00:21:50.540
+pour exprimer votre colère ?
+
+00:21:51.590 --> 00:21:53.060
+Je croyais que tu ne me parlais pas.
+
+00:22:05.270 --> 00:22:06.410
+Quand j'étais chez moi,
+
+00:22:08.270 --> 00:22:09.820
+chaque fois que ma mère cuisinait,
+
+00:22:11.240 --> 00:22:13.340
+Elle ne pensait qu'aux
+goûts de son précieux fils.
+
+00:22:15.550 --> 00:22:17.000
+Ce que j'ai aimé
+
+00:22:17.000 --> 00:22:18.450
+ou n'a pas aimé,
+
+00:22:19.110 --> 00:22:20.580
+Elle s'en fichait complètement.
+
+00:22:23.270 --> 00:22:24.580
+Après avoir commencé à gagner de l'argent,
+
+00:22:24.880 --> 00:22:26.740
+chaque fois que je trouvais
+quelque chose qui me plaisait,
+
+00:22:27.270 --> 00:22:29.450
+Je pouvais manger autant que je le voulais.
+
+00:22:30.920 --> 00:22:32.300
+Elle est venue me rendre visite il y a quelques jours
+
+00:22:33.830 --> 00:22:35.780
+Parce que demain, c'est
+l'anniversaire de la mort de mon père.
+
+00:22:37.866 --> 00:22:39.400
+Mais avant d'aller présenter nos respects,
+
+00:22:39.400 --> 00:22:40.500
+Elle dit qu'elle doit partir.
+
+00:22:42.640 --> 00:22:44.030
+Parce que son précieux fils
+
+00:22:44.030 --> 00:22:45.580
+Il s'est battu à l'école.
+
+00:22:50.110 --> 00:22:51.930
+Comment fait-elle pour passer à autre chose si facilement ?
+
+00:22:53.790 --> 00:22:55.850
+Mon père n'est pas parti depuis six mois,
+
+00:22:56.550 --> 00:22:58.110
+et elle a déjà jeté ses photos,
+
+00:22:58.110 --> 00:22:58.850
+ses vêtements,
+
+00:22:59.720 --> 00:23:01.480
+et même les meubles
+
+00:23:01.480 --> 00:23:02.690
+Il a acheté.
+
+00:23:09.030 --> 00:23:11.370
+Elle a dit qu'elle avait besoin
+de lâcher prise, de repartir à zéro.
+
+00:23:12.480 --> 00:23:13.780
+et voulait que je fasse de même.
+
+00:23:15.310 --> 00:23:17.100
+M’a-t-elle jamais demandé ce que je ressentais ?
+
+00:23:18.830 --> 00:23:19.640
+Elle a tout effacé
+
+00:23:19.640 --> 00:23:22.130
+lié à mon père.
+
+00:23:22.830 --> 00:23:24.650
+Leurs journées ensemble
+
+00:23:27.590 --> 00:23:29.610
+et l'enfant qu'ils ont eu ensemble...
+
+00:23:36.480 --> 00:23:38.690
+Mon père est décédé
+il y a plus de dix ans.
+
+00:23:39.070 --> 00:23:40.410
+Chaque année, à l'occasion de son anniversaire,
+
+00:23:41.240 --> 00:23:43.270
+Elle trouve toujours une excuse pour ne pas y aller.
+
+00:23:43.270 --> 00:23:44.740
+Pourquoi est-ce si difficile pour elle ?
+
+00:23:45.680 --> 00:23:47.650
+aller se recueillir sur sa tombe ?
+
+00:23:48.830 --> 00:23:49.690
+Peut être...
+
+00:23:51.070 --> 00:23:52.260
+Ce n'est pas qu'elle ait oublié.
+
+00:23:53.510 --> 00:23:54.780
+Elle a peur d'y faire face.
+
+00:23:55.680 --> 00:23:56.590
+ou d'accepter
+
+00:23:56.590 --> 00:23:58.580
+le fait que ton père soit vraiment parti.
+
+00:24:00.440 --> 00:24:02.260
+Faire face à de telles choses ou les accepter,
+
+00:24:02.680 --> 00:24:03.500
+Je crois
+
+00:24:04.000 --> 00:24:05.410
+c'est très difficile
+
+00:24:07.000 --> 00:24:08.500
+pour tout le monde.
+
+00:24:10.880 --> 00:24:12.370
+Si elle s'en fichait vraiment,
+
+00:24:13.240 --> 00:24:15.020
+Pourquoi aurait-elle fait tout ce chemin ?
+
+00:24:23.720 --> 00:24:25.610
+Je suis fatigué. Je veux dormir.
+
+00:24:28.240 --> 00:24:28.820
+D'accord.
+
+00:24:58.030 --> 00:24:58.820
+Maman.
+
+00:25:05.200 --> 00:25:06.880
+Tu n'as pas apporté les choses
+que je t'avais achetées.
+
+00:25:06.880 --> 00:25:08.020
+Tu es tellement insouciant.
+
+00:25:10.680 --> 00:25:12.690
+Je n'ai même pas utilisé celui
+que tu as acheté la dernière fois.
+
+00:25:12.920 --> 00:25:14.060
+Reprends-le.
+
+00:25:14.440 --> 00:25:15.890
+C'était il y a une éternité.
+
+00:25:16.240 --> 00:25:17.370
+Il est périmé.
+
+00:25:18.622 --> 00:25:19.880
+Chaque fois que je t'achète quelque chose,
+
+00:25:19.880 --> 00:25:20.740
+Vous ne l'utilisez pas.
+
+00:25:21.960 --> 00:25:23.610
+Prends bien soin de toi.
+
+00:25:23.880 --> 00:25:25.020
+Ne restez pas debout si tard.
+
+00:25:26.270 --> 00:25:28.200
+Arrête de commander des plats à emporter tout le temps.
+
+00:25:28.200 --> 00:25:28.960
+Si vous avez le temps,
+
+00:25:28.960 --> 00:25:30.240
+apprendre à cuisiner.
+
+00:25:30.240 --> 00:25:31.100
+Bien.
+
+00:25:33.310 --> 00:25:34.740
+Tu as fait beaucoup de choses.
+
+00:25:35.880 --> 00:25:36.780
+Continue.
+
+00:25:36.920 --> 00:25:37.580
+Ne soyez pas en retard.
+
+00:25:38.270 --> 00:25:38.930
+Bien.
+
+00:25:39.200 --> 00:25:40.340
+Je m'en vais.
+
+00:25:55.030 --> 00:25:56.370
+Rentrez chez vous.
+
+00:26:14.750 --> 00:26:15.540
+Shen Yiyang,
+
+00:26:16.480 --> 00:26:18.260
+Tu peux aller quelque part avec moi ?
+
+00:26:32.000 --> 00:26:32.860
+(Mari pour enfants)
+
+00:26:32.880 --> 00:26:34.130
+Ma mère est venue.
+
+00:28:50.644 --> 00:28:51.933
+Comment ça avance ?
+
+00:28:52.022 --> 00:28:53.222
+M. Guo et son équipe arrivent
+
+00:28:53.222 --> 00:28:54.311
+pour une inspection demain.
+
+00:28:54.333 --> 00:28:55.600
+Obtenons-nous l'investissement ?
+
+00:28:55.644 --> 00:28:56.439
+Cela dépend de cela.
+
+00:28:56.440 --> 00:28:58.100
+Nous devons nous assurer que
+la démonstration se déroule parfaitement.
+
+00:28:59.590 --> 00:29:00.780
+Paniquer ne servira à rien.
+
+00:29:01.110 --> 00:29:02.100
+Ne t'inquiète pas, Li Wu.
+
+00:29:02.244 --> 00:29:03.100
+J'ai confiance en toi.
+
+00:29:03.310 --> 00:29:04.130
+Procédez étape par étape.
+
+00:29:05.400 --> 00:29:07.480
+N'est-ce pas généralement toi qui
+nous presses le plus ?
+
+00:29:07.480 --> 00:29:08.690
+Pourquoi êtes-vous
+
+00:29:09.000 --> 00:29:09.930
+Si calme aujourd'hui ?
+
+00:29:11.111 --> 00:29:12.930
+Parce que je ne veux pas
+que vous soyez stressés.
+
+00:29:13.480 --> 00:29:14.450
+Retournez à votre travail.
+
+00:29:20.110 --> 00:29:20.790
+D'accord.
+
+00:29:20.790 --> 00:29:22.240
+Je vais donc m'écarter.
+
+00:29:22.240 --> 00:29:23.300
+De toute façon, je ne peux pas être d'une grande aide.
+
+00:29:23.510 --> 00:29:25.210
+Li Wu, excellent travail.
+
+00:29:40.777 --> 00:29:42.466
+Je me réjouis à la perspective
+d'une collaboration harmonieuse.
+
+00:29:42.866 --> 00:29:43.690
+Merci, Monsieur Guo.
+
+00:29:43.733 --> 00:29:45.720
+- J'ai hâte de travailler ensemble.
+- Moi aussi.
+
+00:29:45.720 --> 00:29:47.980
+- J'ai hâte de travailler ensemble.
+- D'accord.
+
+00:29:48.240 --> 00:29:49.240
+Nous partirons les premiers.
+
+00:29:49.240 --> 00:29:50.480
+Pas besoin de nous raccompagner.
+
+00:29:50.480 --> 00:29:51.060
+Bien sûr.
+
+00:29:51.550 --> 00:29:52.300
+Prends soin de toi.
+
+00:30:03.960 --> 00:30:05.070
+Le poids sur ma poitrine
+
+00:30:05.070 --> 00:30:06.690
+est finalement parti.
+
+00:30:17.590 --> 00:30:18.340
+Comment était-ce?
+
+00:30:22.440 --> 00:30:23.890
+Nous l'avons fait !
+
+00:30:26.888 --> 00:30:28.590
+Dînons tous ensemble ce soir.
+
+00:30:28.590 --> 00:30:29.350
+Choisissez n'importe où.
+
+00:30:29.350 --> 00:30:31.500
+— Oui !
+— Merci, Cheng.
+
+00:30:31.960 --> 00:30:32.930
+Bien sûr.
+
+00:30:33.440 --> 00:30:35.060
+Et plus important encore...
+
+00:30:39.830 --> 00:30:41.200
+Nous distribuons des primes.
+
+00:30:41.200 --> 00:30:42.644
+- Youpi !
+- Oui !
+
+00:30:46.240 --> 00:30:47.650
+- Des bonus !
+- Des bonus !
+
+00:30:48.000 --> 00:30:49.640
+Allons chanter au karaoké !
+
+00:30:49.640 --> 00:30:51.130
+- D'accord.
+- Oui.
+
+00:30:51.350 --> 00:30:52.410
+Vous avez tous travaillé dur.
+
+00:30:52.466 --> 00:30:53.755
+Fêtons ça comme vous le souhaitez.
+
+00:30:53.950 --> 00:30:56.520
+Cheng, j'ai envie de manger
+et j'aimerais en emporter à la maison, d'accord ?
+
+00:30:56.870 --> 00:30:57.750
+Bien sûr.
+
+00:30:57.750 --> 00:30:59.130
+Merci beaucoup, Cheng.
+
+00:30:59.240 --> 00:31:00.130
+(15h)
+
+00:31:00.350 --> 00:31:01.890
+(Votre petite amie a besoin de votre aide.)
+
+00:31:21.160 --> 00:31:22.370
+Écoute, mon chéri.
+
+00:31:22.370 --> 00:31:23.030
+Faites comme ceci.
+
+00:31:23.030 --> 00:31:24.240
+Un deux trois.
+
+00:31:24.240 --> 00:31:25.210
+Encore une prise.
+
+00:31:25.790 --> 00:31:26.240
+Merci.
+
+00:31:26.240 --> 00:31:26.822
+Regardez ici.
+
+00:31:26.844 --> 00:31:27.780
+Un deux trois.
+
+00:31:30.270 --> 00:31:31.170
+Merci d'être venus.
+
+00:31:34.911 --> 00:31:35.731
+Jen Jin.
+
+00:31:37.590 --> 00:31:38.590
+Feng Jiao.
+
+00:31:38.590 --> 00:31:40.500
+C'est vraiment toi.
+
+00:31:40.533 --> 00:31:41.480
+Je t'ai vu de loin
+
+00:31:41.480 --> 00:31:43.020
+et j'ai pensé que ça te ressemblait.
+
+00:31:43.240 --> 00:31:44.790
+Nous avons obtenu notre diplôme il y a si longtemps
+
+00:31:44.790 --> 00:31:46.133
+et ne se sont jamais croisés.
+
+00:31:46.510 --> 00:31:47.510
+Ça remonte à si longtemps.
+
+00:31:47.510 --> 00:31:48.300
+Droite?
+
+00:31:48.720 --> 00:31:49.680
+Je pensais que si Wu Fu venait,
+
+00:31:49.680 --> 00:31:50.690
+Tu ne viendrais pas.
+
+00:31:51.920 --> 00:31:52.740
+Cela n'a pas d'importance.
+
+00:31:52.920 --> 00:31:53.540
+Bon.
+
+00:31:55.000 --> 00:31:55.890
+Êtes-vous toujours célibataire ?
+
+00:31:56.088 --> 00:31:58.155
+Si vous rencontrez quelqu'un qui vous convient,
+n'hésitez pas.
+
+00:32:00.066 --> 00:32:01.310
+Ne faites pas comme si ce n'était rien.
+
+00:32:01.310 --> 00:32:03.270
+Plus vous attendez, plus ce sera difficile.
+
+00:32:03.270 --> 00:32:04.580
+Je suis sérieux. N'attendez pas.
+
+00:32:06.960 --> 00:32:08.310
+Ce n'est pas aussi absolu.
+
+00:32:08.310 --> 00:32:11.610
+Oui, mais si vous restez là à attendre,
+rien ne se passera.
+
+00:32:11.750 --> 00:32:14.210
+Vous savez, tout le monde est tellement occupé ces temps-ci.
+
+00:32:14.880 --> 00:32:16.270
+Vous devez prendre l'initiative.
+
+00:32:16.270 --> 00:32:17.850
+Ne concentrez pas toute votre attention sur le travail.
+
+00:32:18.240 --> 00:32:19.960
+Tu devrais sortir, socialiser,
+
+00:32:19.960 --> 00:32:21.340
+et rencontrer des gens.
+
+00:32:21.960 --> 00:32:22.890
+Regardez-moi.
+
+00:32:23.510 --> 00:32:24.000
+Voir?
+
+00:32:24.000 --> 00:32:25.733
+Les discussions de groupe pour sortir
+et s'amuser,
+
+00:32:25.755 --> 00:32:26.911
+J'ai une douzaine de discussions épinglées.
+
+00:32:27.000 --> 00:32:28.422
+Tu devrais venir avec moi la prochaine fois.
+
+00:32:28.640 --> 00:32:29.370
+On verra.
+
+00:32:34.750 --> 00:32:36.750
+À quoi pense Wu Fu ?
+
+00:32:36.750 --> 00:32:38.079
+Pourquoi est-il habillé comme ça ?
+
+00:32:38.080 --> 00:32:40.066
+Les gens pourraient croire
+que ce sont eux qui se marient.
+
+00:32:40.110 --> 00:32:40.740
+Feng Jiao.
+
+00:32:41.640 --> 00:32:42.210
+Feng Jiao.
+
+00:32:43.200 --> 00:32:43.890
+Je commence.
+
+00:32:44.200 --> 00:32:44.790
+Bonjour.
+
+00:32:44.790 --> 00:32:45.590
+Cela fait longtemps qu'on ne s'est pas vu.
+
+00:32:45.590 --> 00:32:46.450
+J'irai là-bas.
+
+00:32:46.680 --> 00:32:47.170
+Bien sûr.
+
+00:32:59.110 --> 00:32:59.850
+Tu es venu.
+
+00:33:03.240 --> 00:33:03.980
+Tu as l'air superbe.
+
+00:33:04.350 --> 00:33:05.060
+Merci.
+
+00:33:05.400 --> 00:33:06.580
+J'ai toujours fière allure.
+
+00:33:10.510 --> 00:33:11.300
+Ce n'est rien.
+
+00:33:12.200 --> 00:33:13.690
+Je suis venu parce que je veux te le dire
+
+00:33:14.720 --> 00:33:15.750
+J'ai trouvé
+
+00:33:15.750 --> 00:33:16.820
+mon bonheur.
+
+00:33:17.240 --> 00:33:18.100
+Et j'espère
+
+00:33:18.440 --> 00:33:20.300
+Vous pourrez bientôt trouver le vôtre.
+
+00:33:22.000 --> 00:33:22.580
+Pourquoi?
+
+00:33:22.720 --> 00:33:24.577
+Avez-vous besoin que je
+vous félicite encore une fois ?
+
+00:33:33.400 --> 00:33:34.000
+Honnêtement,
+
+00:33:34.000 --> 00:33:35.480
+si vous n'avez encore personne,
+
+00:33:35.480 --> 00:33:36.911
+Je peux vous présenter quelqu'un.
+
+00:33:37.920 --> 00:33:40.170
+On dirait que tu as eu
+pas mal de temps libre ces derniers temps.
+
+00:33:51.030 --> 00:33:51.750
+Désolé,
+
+00:33:51.750 --> 00:33:52.450
+Je suis en retard.
+
+00:33:53.790 --> 00:33:54.780
+Vous êtes ici ?
+
+00:33:55.590 --> 00:33:56.580
+J'ai terminé plus tôt.
+
+00:33:58.350 --> 00:33:59.260
+Désolé.
+
+00:33:59.440 --> 00:34:00.880
+J'ai trébuché sur mes talons.
+
+00:34:00.880 --> 00:34:02.020
+et cela a débordé ici.
+
+00:34:03.000 --> 00:34:03.610
+Ça va.
+
+00:34:03.888 --> 00:34:04.820
+Ça ne s'est pas déversé sur nous.
+
+00:34:05.000 --> 00:34:05.690
+Bien.
+
+00:34:07.555 --> 00:34:09.177
+Mais si vous deux vous tenez
+à cette distance l'un de l'autre,
+
+00:34:09.177 --> 00:34:10.133
+et a quand même renversé dessus,
+
+00:34:10.133 --> 00:34:11.555
+Alors vous devriez vraiment être désolé.
+
+00:34:17.920 --> 00:34:19.290
+Ils ont l'air si mignons.
+
+00:34:21.590 --> 00:34:22.330
+Li Wu ?
+
+00:34:23.280 --> 00:34:24.290
+Pourquoi êtes-vous ici ?
+
+00:34:25.760 --> 00:34:27.222
+Permettez-moi de me présenter correctement.
+
+00:34:29.070 --> 00:34:30.580
+Je suis le petit ami de Cen Jin.
+
+00:34:33.030 --> 00:34:34.330
+Son petit ami ?
+
+00:34:35.000 --> 00:34:35.670
+Jen Jin.
+
+00:34:35.670 --> 00:34:36.480
+Regarde-toi.
+
+00:34:36.480 --> 00:34:37.320
+Bon.
+
+00:34:37.320 --> 00:34:38.580
+Très agréable.
+
+00:34:38.960 --> 00:34:40.500
+Bravo.
+
+00:34:41.480 --> 00:34:42.210
+Ici.
+
+00:34:43.150 --> 00:34:44.190
+À plus tard.
+
+00:34:44.190 --> 00:34:44.880
+Nous partons.
+
+00:34:44.880 --> 00:34:45.510
+Au revoir.
+
+00:34:45.510 --> 00:34:47.400
+Cen Jin, que se passe-t-il ?
+
+00:34:47.400 --> 00:34:49.822
+Tu as amené ton petit ami ici,
+et tu ne me l'as pas présenté.
+
+00:34:51.070 --> 00:34:51.920
+Désolé.
+
+00:34:51.920 --> 00:34:53.190
+Un imprévu est survenu.
+
+00:34:53.190 --> 00:34:54.400
+Cela a eu des répercussions sur votre mariage.
+
+00:34:54.400 --> 00:34:55.190
+Pas du tout.
+
+00:34:55.190 --> 00:34:56.280
+Vous l'amenez ici,
+
+00:34:56.280 --> 00:34:57.644
+ce qui signifie que vous me prenez au sérieux.
+
+00:34:57.666 --> 00:34:58.980
+Je suis vraiment heureux.
+
+00:34:59.550 --> 00:35:00.380
+Accueillir.
+
+00:35:00.880 --> 00:35:01.920
+C'est un honneur pour moi.
+
+00:35:01.920 --> 00:35:03.460
+venir à votre mariage avec Cen Jin.
+
+00:35:03.670 --> 00:35:05.420
+Je vous souhaite un joyeux,
+
+00:35:05.590 --> 00:35:06.440
+mariage éternel.
+
+00:35:06.440 --> 00:35:07.219
+Merci.
+
+00:35:07.220 --> 00:35:07.822
+Merci.
+
+00:35:08.230 --> 00:35:10.060
+Nous allons nous préparer.
+
+00:35:10.320 --> 00:35:11.650
+Prenez soin de lui.
+
+00:35:11.920 --> 00:35:12.320
+D'accord.
+
+00:35:12.320 --> 00:35:14.230
+J'espère que vous passerez un bon moment ici.
+
+00:35:14.230 --> 00:35:14.730
+Bien sûr.
+
+00:35:15.960 --> 00:35:17.170
+Vas-y, ma belle.
+
+00:35:18.550 --> 00:35:19.380
+- Au revoir.
+- D'accord.
+
+00:35:19.510 --> 00:35:20.150
+Allons-y.
+
+00:35:20.150 --> 00:35:21.630
+- À plus tard.
+- À plus tard. Au revoir.
+
+00:35:21.630 --> 00:35:22.460
+- Au revoir.
+- Au revoir.
+
+00:35:26.280 --> 00:35:27.380
+Comment avez-vous trouvé cet endroit ?
+
+00:35:28.110 --> 00:35:29.000
+Tu ne me l'as jamais dit,
+
+00:35:29.000 --> 00:35:30.500
+Je ne pouvais donc que demander à Chun Chang.
+
+00:35:32.590 --> 00:35:33.290
+Comment étais-je ?
+
+00:35:34.920 --> 00:35:36.290
+Ai-je bien fait tout à l'heure ?
+
+00:35:37.840 --> 00:35:38.460
+Pas mal.
+
+00:35:42.030 --> 00:35:43.100
+Chers invités.
+
+00:35:43.630 --> 00:35:44.630
+Chers invités.
+
+00:35:44.630 --> 00:35:46.000
+Notre cérémonie va commencer.
+
+00:35:46.000 --> 00:35:47.100
+Veuillez vous rendre sur le lieu de l'événement.
+
+00:35:59.520 --> 00:36:00.210
+Chun Chang.
+
+00:36:00.690 --> 00:36:01.420
+Bonjour Chun Chang.
+
+00:36:02.030 --> 00:36:02.810
+Vous êtes ici.
+
+00:36:06.600 --> 00:36:07.320
+Montez d'abord à l'étage.
+
+00:36:07.320 --> 00:36:07.760
+D'accord.
+
+00:36:07.760 --> 00:36:08.170
+Ici.
+
+00:36:08.288 --> 00:36:09.266
+Parlez-moi de ça.
+
+00:36:09.355 --> 00:36:09.755
+D'accord.
+
+00:36:09.800 --> 00:36:10.280
+J'ai compris.
+
+00:36:10.280 --> 00:36:10.860
+Bien sûr.
+
+00:36:12.150 --> 00:36:12.730
+Allons-y.
+
+00:36:19.630 --> 00:36:21.060
+Qu'est-ce qui te prend ?
+
+00:36:22.190 --> 00:36:23.770
+Pourquoi as-tu l'air si abattu ?
+
+00:36:24.480 --> 00:36:26.250
+Mal d'amour ?
+
+00:36:27.590 --> 00:36:28.250
+Ouais.
+
+00:36:29.060 --> 00:36:30.444
+Je suis malade. Avez-vous le remède ?
+
+00:36:33.630 --> 00:36:35.810
+Je ne peux pas vous aider avec ça.
+
+00:36:36.280 --> 00:36:37.900
+Il vous faut quelqu'un de spécial.
+
+00:36:41.760 --> 00:36:42.580
+Mais...
+
+00:36:43.360 --> 00:36:45.020
+Celui qui peut te guérir
+
+00:36:45.670 --> 00:36:46.380
+est de retour.
+
+00:36:48.710 --> 00:36:49.460
+Regarder.
+
+00:36:49.600 --> 00:36:51.980
+— (Quand arriverez-vous ?)
+— (Vers l'après-midi.)
+
+00:36:52.000 --> 00:36:53.244
+Il sera là cet après-midi.
+
+00:36:53.880 --> 00:36:54.540
+Donc,
+
+00:36:55.150 --> 00:36:56.550
+Et si tu m'offrais un verre ?
+
+00:36:56.550 --> 00:36:59.020
+Et je vous dirai dans quel train il est ?
+
+00:36:59.440 --> 00:37:00.980
+Ai-je dit que je voulais savoir ?
+
+00:37:01.510 --> 00:37:02.250
+Allez.
+
+00:37:02.480 --> 00:37:03.650
+Continuez à faire semblant si vous le souhaitez.
+
+00:37:03.920 --> 00:37:04.610
+Bien.
+
+00:37:04.800 --> 00:37:06.320
+Venez me demander
+
+00:37:06.320 --> 00:37:07.170
+quand vous voulez savoir.
+
+00:37:07.760 --> 00:37:08.770
+Je monte.
+
+00:37:09.070 --> 00:37:09.900
+Apprécier.
+
+00:37:14.880 --> 00:37:15.940
+Que se passe-t-il?
+
+00:37:16.150 --> 00:37:17.540
+Vous êtes-vous disputé avec M. Shen ?
+
+00:37:20.400 --> 00:37:21.880
+Pas étonnant qu'il ne se soit pas présenté.
+
+00:37:21.880 --> 00:37:22.650
+pendant des jours.
+
+00:37:24.150 --> 00:37:25.100
+L'as-tu mis en colère ?
+
+00:37:25.710 --> 00:37:26.900
+Je ne sais pas.
+
+00:37:28.760 --> 00:37:30.500
+Il a été tantôt chaleureux, tantôt froid.
+
+00:37:31.244 --> 00:37:32.810
+Il y a quelques jours, il m'adressait à peine la parole.
+
+00:37:33.140 --> 00:37:34.920
+Quand je suis tombé malade,
+il est venu s'occuper de moi.
+
+00:37:34.920 --> 00:37:36.000
+Juste au moment où je pensais
+
+00:37:36.000 --> 00:37:36.960
+nous nous étions réconciliés,
+
+00:37:36.960 --> 00:37:38.210
+Il a de nouveau disparu.
+
+00:37:39.880 --> 00:37:40.840
+Vous l'avez vu vous-même.
+
+00:37:40.840 --> 00:37:42.690
+Même Xiao Jun connaît son emploi du temps,
+
+00:37:42.960 --> 00:37:43.650
+mais moi ?
+
+00:37:44.760 --> 00:37:45.940
+Je ne sais rien !
+
+00:37:46.400 --> 00:37:47.690
+Certainement pas.
+
+00:37:48.030 --> 00:37:49.540
+Monsieur Shen se soucie de vous.
+
+00:37:50.370 --> 00:37:51.290
+Réfléchissez-y à deux fois.
+
+00:37:51.710 --> 00:37:52.860
+Tu l'as clairement mis en colère.
+
+00:37:53.960 --> 00:37:54.690
+Je ne l'ai pas fait.
+
+00:37:58.920 --> 00:37:59.730
+Oh non.
+
+00:38:02.960 --> 00:38:04.020
+N'est-ce pas le meilleur aspect de l'amour ?
+
+00:38:04.710 --> 00:38:06.360
+la phase de poussée et de traction
+
+00:38:06.360 --> 00:38:08.250
+avant que quoi que ce soit n'arrive ?
+
+00:38:08.510 --> 00:38:09.760
+Une fois que vous êtes vraiment ensemble,
+
+00:38:09.760 --> 00:38:10.940
+Ça cesse d'être amusant.
+
+00:38:16.400 --> 00:38:17.730
+Pourquoi ne me l'as-tu pas dit plus tôt ?
+
+00:38:18.480 --> 00:38:19.940
+Je pensais que ce n'était pas lui.
+
+00:38:20.066 --> 00:38:22.200
+Triez
+rapidement les données expérimentales de ce cycle.
+
+00:38:22.230 --> 00:38:22.720
+D'accord.
+
+00:38:24.030 --> 00:38:25.940
+Laissez-moi vérifier où se trouve notre voiture.
+
+00:38:26.510 --> 00:38:27.500
+Je vais vérifier.
+
+00:38:28.400 --> 00:38:29.210
+Demandons.
+
+00:38:29.550 --> 00:38:30.760
+Yiyang, ton transport est arrivé ?
+
+00:38:30.760 --> 00:38:31.250
+Ouais.
+
+00:38:31.444 --> 00:38:32.420
+Ça devrait arriver bientôt.
+
+00:38:32.710 --> 00:38:33.840
+Nous allons commencer.
+
+00:38:33.840 --> 00:38:35.670
+- Bien sûr. Au revoir, Yiyang.
+- A plus, Yiyang.
+
+00:38:35.670 --> 00:38:36.860
+- À bientôt.
+- À bientôt. Au revoir.
+
+00:38:37.360 --> 00:38:38.290
+Shen Yiyang.
+
+00:38:59.140 --> 00:39:05.940
+(Entrée, Parking)
+
+00:39:16.710 --> 00:39:18.380
+Tu n'es pas occupé au bar aujourd'hui ?
+
+00:39:18.710 --> 00:39:19.500
+Quoi?
+
+00:39:19.670 --> 00:39:20.690
+Tu ne veux pas me voir ?
+
+00:39:22.840 --> 00:39:23.500
+Non.
+
+00:39:24.960 --> 00:39:26.250
+J'espère que vous ne pensez pas ça.
+
+00:39:26.577 --> 00:39:27.955
+D'autres personnes partent en voyage d'affaires,
+
+00:39:27.977 --> 00:39:29.440
+Et ils continuent à s'appeler ou à faire des conversations vidéo.
+
+00:39:29.440 --> 00:39:30.420
+Vous partez en voyage
+
+00:39:30.760 --> 00:39:32.060
+et n'envoyez même pas de message.
+
+00:39:32.222 --> 00:39:33.733
+Il n'y a pas de réseau dans les montagnes.
+
+00:39:40.320 --> 00:39:41.100
+Ce qui s'est passé?
+
+00:39:42.066 --> 00:39:43.960
+Des piqûres de moustiques.
+Et des égratignures de branches.
+
+00:39:43.960 --> 00:39:44.540
+Ce n'est rien.
+
+00:39:48.840 --> 00:39:49.730
+Regardez ça.
+
+00:39:50.190 --> 00:39:50.980
+Qu'est-ce que c'est ça?
+
+00:39:54.510 --> 00:39:56.130
+Je ne vous espionne pas.
+
+00:39:56.488 --> 00:39:58.880
+Vous avez
+beaucoup travaillé sur le terrain en montagne,
+
+00:39:58.880 --> 00:39:59.900
+Je suis donc inquiet.
+
+00:40:00.030 --> 00:40:02.030
+Et j'ai demandé à Xiao Jun.
+
+00:40:02.030 --> 00:40:03.070
+Il a dit que l'échantillonnage en montagne
+
+00:40:03.070 --> 00:40:04.540
+est pleine de bosses et de bleus.
+
+00:40:05.000 --> 00:40:07.460
+J'ai donc tout préparé.
+
+00:40:07.590 --> 00:40:08.580
+Ce...
+
+00:40:09.280 --> 00:40:10.650
+Je n'en aurai probablement pas besoin.
+
+00:40:11.190 --> 00:40:12.690
+N'est-ce pas aussi une sorte de pommade ?
+
+00:40:12.880 --> 00:40:14.380
+Qui s'en soucie ?
+
+00:40:14.760 --> 00:40:16.100
+Ça devrait marcher.
+
+00:40:16.244 --> 00:40:18.177
+Nous emportons tous ce genre de choses
+quand nous sortons.
+
+00:40:18.360 --> 00:40:18.940
+Merci.
+
+00:40:20.590 --> 00:40:21.170
+Vraiment?
+
+00:40:21.800 --> 00:40:23.360
+Mais je les ai quand même préparés.
+
+00:40:23.360 --> 00:40:25.250
+Je pense que vous en aurez besoin tôt ou tard.
+
+00:40:25.711 --> 00:40:26.960
+Si j'en ai besoin tôt ou tard,
+
+00:40:26.960 --> 00:40:29.420
+Cela signifie que
+je vais me blesser tôt ou tard ?
+
+00:40:30.590 --> 00:40:31.210
+Non.
+
+00:40:31.288 --> 00:40:32.510
+J'espère que vous n'en aurez pas besoin.
+
+00:40:32.510 --> 00:40:33.130
+Je plaisantais.
+
+00:40:36.590 --> 00:40:37.460
+Shen Yiyang,
+
+00:40:38.400 --> 00:40:39.460
+cette nuit-là
+
+00:40:40.880 --> 00:40:41.860
+au bar,
+
+00:40:43.800 --> 00:40:44.840
+As-tu entendu ?
+
+00:40:44.840 --> 00:40:46.020
+Qu'est-ce que j'ai dit ?
+
+00:40:49.550 --> 00:40:50.380
+Je l'ai fait.
+
+00:40:50.960 --> 00:40:52.100
+Je suis désolé.
+
+00:40:52.550 --> 00:40:53.400
+Ce que je voulais dire, c'est...
+
+00:40:53.400 --> 00:40:54.100
+Chun Chang,
+
+00:40:56.190 --> 00:40:57.170
+allons-y...
+
+00:40:59.550 --> 00:41:00.810
+avoir une relation sérieuse.
+
+00:41:05.266 --> 00:41:06.920
+(Palaisse de Baicao)
+Lin, regarde ce mouvement.
+
+00:41:06.920 --> 00:41:07.760
+Je n'arrête pas de me tromper.
+
+00:41:07.760 --> 00:41:09.680
+- Comment fait-on ce geste ?
+- Comment le fait-on tourner ?
+
+00:41:09.760 --> 00:41:10.880
+Celui-ci. À deux mains.
+
+00:41:10.880 --> 00:41:11.330
+Comme ça.
+
+00:41:11.760 --> 00:41:12.510
+Oui. Poignet à poignet.
+
+00:41:12.510 --> 00:41:13.020
+Ouais.
+
+00:41:13.190 --> 00:41:13.690
+Tourner.
+
+00:41:14.190 --> 00:41:14.650
+Tourner.
+
+00:41:15.030 --> 00:41:15.500
+Tourner.
+
+00:41:16.280 --> 00:41:16.770
+Tourner.
+
+00:41:16.920 --> 00:41:17.730
+Comme ça.
+
+00:41:17.920 --> 00:41:18.500
+Retournez-vous.
+
+00:41:19.360 --> 00:41:20.940
+Droite.
+
+00:41:21.280 --> 00:41:22.030
+Oui.
+
+00:41:22.030 --> 00:41:23.630
+Lin, qu'est-ce qui t'a soudainement fait
+
+00:41:23.630 --> 00:41:24.770
+Envie d'apprendre la danse carrée ?
+
+00:41:25.360 --> 00:41:27.060
+Ce n'est pas si soudain.
+
+00:41:27.222 --> 00:41:28.733
+Je ressens les symptômes de la ménopause
+
+00:41:28.733 --> 00:41:30.020
+Un peu plus ces derniers temps.
+
+00:41:30.022 --> 00:41:31.110
+Je suis allé voir le médecin,
+
+00:41:31.110 --> 00:41:32.400
+et ils m'ont dit
+
+00:41:32.400 --> 00:41:34.290
+se mettre à des passe-temps
+comme le chant ou la danse.
+
+00:41:35.030 --> 00:41:36.480
+Mon syndicat d'entreprise
+
+00:41:36.480 --> 00:41:38.280
+J'animais quelques cours de danse.
+
+00:41:38.280 --> 00:41:39.377
+J'ai appris quelques trucs à l'époque.
+
+00:41:39.480 --> 00:41:40.380
+Alors je réfléchis
+
+00:41:40.510 --> 00:41:42.630
+Je pourrais peut-être combiner
+
+00:41:42.630 --> 00:41:44.510
+ce que j'ai appris auparavant
+avec ces nouveaux mouvements.
+
+00:41:44.510 --> 00:41:45.666
+Nous pouvons les utiliser dans notre danse.
+
+00:41:46.030 --> 00:41:47.000
+Je le savais.
+
+00:41:47.000 --> 00:41:47.920
+Vos mouvements
+
+00:41:47.920 --> 00:41:49.190
+On dirait que tu as des fondations.
+
+00:41:49.190 --> 00:41:50.150
+Non, non.
+
+00:41:50.150 --> 00:41:50.920
+Vous êtes si gentil.
+
+00:41:50.920 --> 00:41:52.210
+Vous dansez tous très bien aussi.
+
+00:41:52.440 --> 00:41:53.330
+Ah oui, Lin,
+
+00:41:53.550 --> 00:41:55.500
+Votre fille a-t-elle un petit ami maintenant ?
+
+00:41:56.755 --> 00:41:58.210
+Je ne dirais pas qu'elle a un petit ami.
+
+00:41:58.360 --> 00:42:00.100
+Mais elle fait la connaissance d'un garçon.
+
+00:42:00.800 --> 00:42:02.730
+Un neurologue à l'hôpital central.
+
+00:42:03.110 --> 00:42:05.460
+Il a un bon caractère, de bonnes compétences,
+
+00:42:05.844 --> 00:42:07.100
+et est poli et raffiné.
+
+00:42:07.710 --> 00:42:09.070
+Mais les rencontres
+
+00:42:09.070 --> 00:42:10.550
+C'est l'affaire des jeunes.
+
+00:42:10.550 --> 00:42:12.360
+Nous ne devrions pas trop intervenir, n'est-ce pas ?
+
+00:42:12.360 --> 00:42:13.730
+Un neurologue ?
+
+00:42:13.880 --> 00:42:15.130
+C'est un excellent match.
+
+00:42:15.880 --> 00:42:16.840
+J'étais en fait
+
+00:42:16.840 --> 00:42:18.110
+penser à
+
+00:42:18.110 --> 00:42:19.150
+Je vous présente mon neveu
+
+00:42:19.150 --> 00:42:20.170
+à votre fille.
+
+00:42:20.550 --> 00:42:23.000
+C'est un avocat à l'étranger.
+
+00:42:23.000 --> 00:42:24.420
+Il revient dans quelques jours.
+
+00:42:25.670 --> 00:42:26.480
+Mais il semble que
+
+00:42:26.480 --> 00:42:28.130
+Il n'y a plus aucune chance.
+
+00:42:28.360 --> 00:42:29.190
+Mauvais timing.
+
+00:42:29.190 --> 00:42:30.420
+Ouais, mauvais timing.
+
+00:42:31.800 --> 00:42:32.590
+Mesdames,
+
+00:42:32.590 --> 00:42:33.920
+La pause est terminée.
+
+00:42:33.920 --> 00:42:35.290
+Entraînons-nous encore un peu.
+
+00:42:36.230 --> 00:42:36.810
+Lin,
+
+00:42:36.960 --> 00:42:38.210
+Venez danser avec nous.
+
+00:42:38.422 --> 00:42:39.280
+Allez-y en premier.
+
+00:42:39.280 --> 00:42:40.840
+Laissez-moi mémoriser les deux derniers mouvements.
+
+00:42:40.840 --> 00:42:41.590
+Je vous rejoindrai plus tard.
+
+00:42:41.590 --> 00:42:42.630
+Observez attentivement nos mouvements.
+
+00:42:42.630 --> 00:42:43.511
+D'accord.
+
+00:42:43.511 --> 00:42:43.960
+Bien.
+
+00:42:43.960 --> 00:42:45.030
+Très bien, mesdames.
+
+00:42:45.030 --> 00:42:45.440
+S'aligner.
+
+00:42:45.440 --> 00:42:46.000
+D'accord.
+
+00:42:46.000 --> 00:42:47.030
+Faites la queue.
+
+00:42:47.030 --> 00:42:49.060
+Tout le monde, le torse droit et le ventre rentré.
+
+00:42:49.190 --> 00:42:49.810
+Tenez-vous droit.
+
+00:42:49.810 --> 00:42:50.880
+Très bien, recommençons.
+
+00:42:50.880 --> 00:42:51.730
+Prêt.
+
+00:42:51.730 --> 00:42:53.800
+(Feng Jiao (amie de Jin à l'université) :
+Je vous souhaite un mariage heureux !)
+
+00:43:06.030 --> 00:43:06.980
+Wu ?
+
+00:43:20.290 --> 00:43:24.070
+♪La lumière annonce un jour nouveau♪
+
+00:43:24.540 --> 00:43:27.030
+♪Scènes d'hier♪
+
+00:43:27.550 --> 00:43:29.580
+♪Recommencer à répéter♪
+
+00:43:29.580 --> 00:43:31.680
+♪Je dis bonjour♪
+
+00:43:31.680 --> 00:43:35.710
+♪Les étoiles accompagnent la nuit♪
+
+00:43:36.200 --> 00:43:38.650
+♪D'innombrables nuits blanches♪
+
+00:43:39.160 --> 00:43:41.460
+♪Votre « bonne nuit »♪
+
+00:43:41.920 --> 00:43:44.940
+♪Apaise tous mes soucis♪
+
+00:43:46.060 --> 00:43:50.040
+♪Le vent semble être tombé♪
+
+00:43:50.400 --> 00:43:52.980
+♪Les fleurs s'épanouissent avec des visages souriants♪
+
+00:43:53.440 --> 00:43:55.720
+♪Les papillons s'attardent♪
+
+00:43:55.720 --> 00:43:57.760
+♪Tellement romantique♪
+
+00:43:57.760 --> 00:44:01.540
+♪Sans s'en apercevoir♪
+
+00:44:01.960 --> 00:44:04.480
+♪J'ai trouvé où mon cœur a commencé à battre♪
+
+00:44:04.940 --> 00:44:07.430
+♪Ça a commencé il y a longtemps♪
+
+00:44:07.800 --> 00:44:10.710
+♪Désolé d'être arrivé en retard♪
+
+00:44:12.020 --> 00:44:16.540
+♪J'ai l'habitude de recevoir
+vos salutations matinales♪
+
+00:44:17.220 --> 00:44:19.630
+♪Transformer toutes les difficultés♪
+
+00:44:20.160 --> 00:44:23.430
+♪Dans les choses les plus simples♪
+
+00:44:23.700 --> 00:44:28.180
+♪J'ai l'habitude de passer de bonnes nuits avec toi♪
+
+00:44:28.750 --> 00:44:31.170
+♪J'ai peur que la vie soit trop courte♪
+
+00:44:31.650 --> 00:44:33.880
+♪Disparu en un clin d'œil♪
+
+00:44:33.880 --> 00:44:35.410
+♪Que dois-je faire♪
+
+00:44:35.410 --> 00:44:39.820
+♪J'adore chaque bonjour
+et chaque bonne nuit passés avec toi♪
+
+00:44:40.380 --> 00:44:42.770
+♪Écrire nos journées♪
+
+00:44:43.280 --> 00:44:46.420
+♪Dans de grands petits moments ordinaires♪
+
+00:44:46.880 --> 00:44:51.390
+♪Peut-être qu'un jour nous nous éloignerons l'un de l'autre♪
+
+00:44:51.920 --> 00:44:54.270
+♪N'oubliez pas de rentrer à la maison à l'heure♪
+
+00:44:54.790 --> 00:44:58.050
+♪J'ai préparé ton préféré♪
+
+00:44:58.050 --> 00:45:00.880
+♪Dîner♪
+
